@@ -1,0 +1,139 @@
+@font-face
+{
+    font-family: joannaSemibold;
+    src: url('JoannaMTStd-SemiBold.otf');
+}
+
+@font-face
+{
+    font-family: joannaSemiboldItalic;
+    src: url('JoannaMTStd-SemiBoldItalic.otf');
+}
+
+@font-face
+{
+    font-family: itcBook;
+    src: url('ITCFranklinGothicStd-Book.otf');
+}
+
+
+.container {
+    padding-left: .6em;
+    margin-right: .6em;
+}
+
+
+h1 {
+    font-family: joannaSemibold, Times, serif;
+    font-weight: normal;
+    font-size: 1.5em;
+    color: #00568B;
+    letter-spacing: 0px;
+    padding-top: 10px;
+}
+
+h2 {
+    font-family: joannaSemiboldItalic, Times, serif;
+    font-weight: normal;
+    font-size: 1.5em;
+    color: #00568B;
+    opacity: .74;
+}
+
+h3 {
+    font-family: joannaSemibold, Times, serif;
+    font-weight: normal;
+    font-size: 1.2em;
+    color: #00568B;
+}
+
+p {
+    font-family: itcBook,sans-serif;
+    font-weight: normal;
+    font-size: 1em;
+    color: #333333;
+    line-height: 20px;
+}
+
+li {
+    font-family: itcBook,sans-serif;
+    font-weight: normal;
+    font-size: 1em;
+    color: #333333;
+    margin-bottom: .5em;
+    line-height: 20px;
+}
+
+.checks {
+    font-family: itcBook,sans-serif;
+    font-weight: normal;
+    font-size: 1em;
+    color: #333333;
+    margin-bottom: .5em;
+    margin-left: -10px;
+    line-height: 20px;
+}
+
+.checksli{
+    display: block;
+    margin-left:5px;
+    margin-bottom: .5em;
+}
+
+input[type='checkbox'] {
+    margin-left:-24px;
+}
+
+#autism{
+    display:block;
+}
+
+#medicalDevices {
+   display:none; 
+}
+
+#deaf {
+   display:none; 
+}
+
+#implants {
+   display:none; 
+}
+
+#medications {
+   display:none; 
+}
+
+#mobility {
+   display:none; 
+}
+
+#prostheses {
+   display:none; 
+}
+
+#radioactive {
+   display:none; 
+}
+
+#respiratory {
+   display:none; 
+}
+
+#blind {
+   display:none; 
+}
+
+#dog {
+   display:none; 
+}
+
+#alzheimer {
+   display:none; 
+}
+
+#ostomies {
+   display:none; 
+}
+
+

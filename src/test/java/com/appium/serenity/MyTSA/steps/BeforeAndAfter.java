@@ -24,17 +24,17 @@ public class BeforeAndAfter {
             File file = new File("src/test/resources/testapps/MyTSA-Test.apk");
             String apkpath = file.getAbsolutePath();
             caps.setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.ANDROID);
-            caps.setCapability(AndroidMobileCapabilityType.AVD, "PixelXL");
+            caps.setCapability(AndroidMobileCapabilityType.AVD, "Pixel2XL");
 //            caps.setCapability(MobileCapabilityType.AUTOMATION_NAME, "UiAutomator2");
-            caps.setCapability(MobileCapabilityType.DEVICE_NAME, "PixelXL");
+            caps.setCapability(MobileCapabilityType.DEVICE_NAME, "Pixel2XL");
             caps.setCapability(MobileCapabilityType.APP, apkpath);
-            caps.setCapability(MobileCapabilityType.PLATFORM_VERSION, "8.0");
+            caps.setCapability(MobileCapabilityType.PLATFORM_VERSION, "8.1");
         } else if (os.equalsIgnoreCase("ios")){
             caps.setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.IOS);
             caps.setCapability(MobileCapabilityType.DEVICE_NAME, "iPhone 8");
 //            caps.setCapability(MobileCapabilityType.AUTOMATION_NAME, "XCUITest");
-            caps.setCapability(MobileCapabilityType.APP, "/Users/jshin/Documents/Repo/test-apps/MyTSA.app");
-            caps.setCapability(MobileCapabilityType.PLATFORM_VERSION, "11.3");
+            caps.setCapability(MobileCapabilityType.APP, "/Users/schindepalli/Documents/Projects/mytsa-automation-test/src/test/resources/testapps/MyTSA.app");
+            caps.setCapability(MobileCapabilityType.PLATFORM_VERSION, "11.4");
         }
         return caps;
     }

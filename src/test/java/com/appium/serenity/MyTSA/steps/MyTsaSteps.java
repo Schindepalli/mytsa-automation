@@ -115,8 +115,7 @@ public class MyTsaSteps extends ScenarioSteps {
 
     @Step
     public void resetTheIOSApp() {
-        driver.removeApp("gov.dhs.tsa.mytsa.prod.devtest12");
-        driver.installApp("/Users/jshin/Documents/Repo/test-apps/MyTSA.app");
+        driver.installApp("/Users/schindepalli/Documents/Projects/mytsa-automation-test/src/test/resources/testapps/MyTSA.app");
         driver.launchApp();
     }
 }

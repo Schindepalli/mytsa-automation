@@ -1,0 +1,3464 @@
+{
+    "items": [
+        {
+            "item": {
+                "Item name": "Adult Toys",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "vibrators,dildos"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Alcoholic beverages",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Alcoholic beverages with more than 24% but not more than 70% alcohol are limited in checked bags to 5 liters (1.3 gallons) per passenger and must be in unopened retail packaging. Alcoholic beverages with 24% alcohol or less are not subject to limitations in checked bags.\u00a0<\/p><p>Mini bottles of alcohol in carry-on must be able to comfortably fit into a single quart-sized bag.<\/p><p>For more information, see FAA regulation: <a href=\"http:\/\/www.ecfr.gov\/cgi-bin\/retrieveECFR?gp=1&amp;SID=bba5ad06518b529c94e1d67a3270196b&amp;ty=HTML&amp;h=L&amp;r=SECTION&amp;n=49y2.1.1.3.12.1.25.5\">49 CFR 175.10(a)(4).<\/a><\/p>",
+                "Keywords": "wine,liquids,beer,liquor,shooters,nips"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Alcoholic beverages over 140 proof",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>Alcoholic beverages with more than 70% alcohol (up to 140 proof), including grain alcohol and 151 proof rum. For more information, see FAA regulation: <a href=\"http:\/\/www.ecfr.gov\/cgi-bin\/retrieveECFR?gp=1&amp;SID=bba5ad06518b529c94e1d67a3270196b&amp;ty=HTML&amp;h=L&amp;r=SECTION&amp;n=49y2.1.1.3.12.1.25.5\">49 CFR 175.10(a)(4).<\/a><\/p>",
+                "Keywords": "liquids,liquor,shooters,nips"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Ammunition",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>Check with your airline if ammunition is allowed in checked bags.\u00a0Small arms ammunitions must be securely packed in fiber, wood or metal boxes or other packaging specifically designed to carry small amounts of ammunition. Ask the airline about limitations or fees. <a href=\"\/travel\/transporting-firearms-and-ammunition\">Read the guidelines<\/a> for traveling with firearms.<\/p><p>When traveling, be sure to comply with the laws concerning possession of firearms as they vary by local, state and international government.<\/p>",
+                "Keywords": "bullet,ammo"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Antlers",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>You may transport this item in carry-on or checked bags. For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Artificial Skeleton Bones",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "medical school\r\n\r\n"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Axes and Hatchets",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Baby Carrier",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>You may transport this item in carry-on or checked bags. For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": "infant,toddler,baby sling"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Baby Food",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Baby food is allowed in reasonable quantities in carry-on bags. Remove these items from your carry-on bag to be screened separately from the rest of your belongings.\u00a0Please see traveling with children for more information.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Baby Formula",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Formula, breast milk and juice are allowed in reasonable quantities\u00a0in carry-on bags. Remove these items from your carry-on bag to be screened separately from the rest of your belongings. You do not need to travel with your child to bring breast milk. Please see <a href=\"https:\/\/www.tsa.gov\/travel\/special-procedures\/traveling-children\">traveling with children<\/a> for more information.<\/p>",
+                "Keywords": "liquids,milk,water,infants,babies"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Baby Wipes",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "infants,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Balloons (not inflated)",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Baseball Bats",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Sports equipment that can be used as a bludgeon (such as bats and clubs) is prohibited in the cabin of the plane and must be transported in your checked baggage.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Basketballs\/Baseballs\/Footballs",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "Sports equipment "
+            }
+        },
+        {
+            "item": {
+                "Item name": "BB Guns",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>Check with your airline to see if they allow firearms in checked bags.\u00a0<a href=\"\/travel\/transporting-firearms-and-ammunition\">Read the guidelines<\/a> for traveling with firearms.<\/p><p>When traveling, be sure to comply with the laws concerning possession of firearms as they vary by local, state and international government.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Bear Bangers",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Bear spray",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>In your checked bags, you are allowed to have one 118 milliliter or 4 fluid ounce container of mace or pepper spray with a maximum concentration of 2% active ingredient provided that the container is equipped with a safety mechanism to prevent accidental discharge. Note: Most animal repellants exceed these volume and concentration limitations.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Belts, Clothes and Shoes",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>To help TSA officers get a clear look at your bag and reduce the need for additional screening, we suggest you pack your bag in neat layers.<\/p><div><\/div>",
+                "Keywords": "jackets,clothing"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Bicycles",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Checked Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Billy Clubs",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Binoculars",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Black Jacks",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Blasting Caps",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Blender",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Blood Sugar Test Kit",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Please notify the TSA officer that you have diabetes and are carrying your supplies with you. Insulin pumps and supplies must be accompanied by insulin, and insulin in any form or dispenser must be clearly identified.<\/p>",
+                "Keywords": "diabetes,diabetics,needles,medications,medical devices,medicines,prescriptions,glucose,blood glucose meters  "
+            }
+        },
+        {
+            "item": {
+                "Item name": "Body Armor",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Generally, body armor is allowed in carry-on or checked bags. Please note however that even if an item is generally allowed, our officers make the final decision on whether an item is allowed through the checkpoint.<\/p>",
+                "Keywords": "Kevlar"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Bottle Opener",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Bottled Water",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "liquids"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Bowling Balls",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Sports equipment that can be used as a bludgeon (such as bats and clubs) is prohibited in the cabin of the plane and must be transported in your checked bags.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Bows and Arrows",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Box Cutters",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": "boxcutters"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Brass Knuckles",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Bread Machine",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>You may transport this item in carry-on or checked bags. For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": "electronics,food"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Breast Milk",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Formula, breast milk and juice are allowed in reasonable quantities\u00a0in carry-on bags. Remove these items from your carry-on bag to be screened separately from the rest of your belongings. You do not need to travel with your child to bring breast milk. Please see <a href=\"https:\/\/www.tsa.gov\/travel\/special-procedures\/traveling-children\">traveling with children<\/a> for more information.<\/p>",
+                "Keywords": "baby,formula,liquids,infants,babies"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Breast Pump",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Bug Repellent",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "insects,bugs"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Butane",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Camera Monopod",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>You may transport this item in carry-on or checked bags. For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Candy",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "chocolate,candy"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Canes",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Canned Foods",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>There are some items that are not on the prohibited items list, but because of how they appear on the X-ray, security concerns, or impact of the 3-1-1 rules for liquids, gels and aerosols, they could require additional screening that might result in the item not being allowed through the checkpoint. We suggest that you pack this item in your checked bag, ship it to your destination or leave it at home.<\/p>",
+                "Keywords": "cans"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Car Parts",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>Car engine parts and other car parts without fuel or traces of fuel are allowed in carry-on or checked bags. Car engine parts may be placed in checked bags only if the parts are packed in their original box and free of gasoline and oil.<\/p><p>For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p><p>If you have questions regarding hazardous materials regulations, please see the <a href=\"http:\/\/www.faa.gov\/\">FAA website<\/a>.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Casts",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Cattle Prods",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Cell Phones",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "electronics,phones,Samsung Galaxy S7,Iphone"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Cereal",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Cheese (Creamy)",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "snacks"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Cheese (Solid)",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "snacks"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Child Car Seat",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>You may transport this item in carry-on or checked bags. For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": "baby,kid"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Chlorine for Pools and Spas",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Chocolate (Solid)",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "snacks,food,chocolates"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Cigar Cutters",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Cigarette\/Cigar ",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Cigarettes",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Clock",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "electronic, "
+            }
+        },
+        {
+            "item": {
+                "Item name": "CO2 Cartridge for Life Vest",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>You may bring a life vest with up to two CO2 cartridges inside, plus two spare cartridges in your carry-on or checked bag.<\/p><p>Even if an item is generally permitted, it may be subject to additional screening or not allowed through the checkpoint if it triggers an alarm during the screening process, appears to have been tampered with, or poses other security concerns. The final decision rests with TSA on whether to allow any items on the plane.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Coat Hangers",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Coffee (Beans or Ground)",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Coffee (Liquid)",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Coffee Thermos (empty)",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>You may take empty drink containers through the checkpoint and fill them afterward.<\/p>",
+                "Keywords": "empty cup"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Coffee\/Espresso Maker",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Please carefully pack your electronics items, making sure all cords are wrapped and any DVDs, CDs, or cassettes are removed from their devices. While you can pack expensive, fragile electronics items in checked or carry-on bags, we recommend packing them in your carry-on.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Cologne",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "liquids,makeups,make ups,make-ups,cosmetics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Compressed Air Guns",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Including paintball markers, may be carried in checked baggage without compressed air cylinder attached.<\/p>",
+                "Keywords": "Paintball guns, CO2 rifle"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Concealer",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "gel,makeups,make ups,make-ups,liquids,cosmetics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Conditioner",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "shampoo"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Contact Lenses",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>TSA allows larger amounts of medically necessary liquids, gels, and aerosols in reasonable quantities for your trip, but you must declare them to security officers at the checkpoint for inspection.<\/p>",
+                "Keywords": "contacts"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Cooked Meat, Seafood and Vegetable (No Liquid)",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>You may transport this item in carry-on or checked bags. For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": "fried chickens,roasted chickens,beef,pork,shrimps,eggs"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Cookies",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "snacks"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Corkscrews (with blade)",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Corkscrews (with no blade)",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Crackers",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "snacks,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Crampons ",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "sporting,camping,sharp"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Cream",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "liquids"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Creamy Dips and Spreads",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Cremated Remains",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>We understand how painful losing a loved one is and we treat crematory remains with respect. Some airlines do not allow cremated remains in checked bags, so please check with your airline to learn more about possible restrictions.<\/p><p>To facilitate screening, we suggest that you purchase a temporary or permanent crematory container made of a lighter weight material, such as wood or plastic. If the container is made of a material that generates an opaque image, TSA officers will not be able to clearly determine what is inside the container and the container will not be allowed. Out of respect for the deceased, TSA officers will not open a container, even if requested by the passenger.<\/p>",
+                "Keywords": "ashes"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Cricket Bats",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Crochet Hooks",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": "household,tools"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Crowbars",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Crutches",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Curling Iron (with cord)",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "irons,electronics,electric,curler,curling wand,curling iron"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Curling Irons (cordless)",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>Cordless curling irons containing a gas cartridge and butane fueled curling irons are allowed in checked bags only.<\/p><p>A safety cover must be securely fitted over the heating element. The device must be protected from accidental activation.<\/p><p>Gas refills (spare cartridges) are not permitted.<\/p>",
+                "Keywords": "curler,curling wand,butane,curling iron"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Deodorant (liquid)",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "liquids,roll-on,roll on,deoderant"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Deodorant (Solid)",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "deoderant"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Detergent (liquid)",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "laundry,dishwashing"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Detergent (powder or pellet)",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "laundry,dishwashing,pods"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Digital Cameras",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": "household"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Disposable and Zippo Lighters ",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>Disposable and Zippo lighters without fuel are allowed in checked bags. Lighters with fuel are prohibited in checked bags, unless they adhere to the Department of Transportation exemption, which allows up to two fueled lighters if properly enclosed in a DOT approved case.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Disposable Razor",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": "razors"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Divot Tools",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "golf"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Dried Fruits",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Drills and Drill Bits",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Tools longer than 7 inches (measured from end to end when assembled) are prohibited in carry-on baggage including cordless portable power drills.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Drones",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Checked Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Description": "<p>Drones are allowed through the checkpoint. Please check with your airline for their policy.<\/p>",
+                "Keywords": "drones,electronic,battery,batteries,lithium"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Drumsticks",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Musical instruments must undergo screening when transported as carry-on or in checked bags. Musical instruments transported as carry-on require a physical inspection at the security checkpoint. Inform the TSA officer if your instrument requires special care and handling. Pack brass instruments in your checked bags.<\/p>",
+                "Keywords": "music"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Dry batteries (AA, AAA, C, and D)",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "household,battery"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Dry Ice",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Checked Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Description": "<p>The FAA limits you to five pounds of dry ice that is properly packaged (the package is vented) and marked. Airline approval is required. For more information, visit the <a href=\"http:\/\/www.faa.gov\/about\/initiatives\/hazmat_safety\/\">FAA website<\/a>.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Duct Tape",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "DVD Players",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": "electronics,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Dynamite",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "E-liquids",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "nicotine,Cigarettes,Electronic Cigarettes,Vaping Devices,vapes,e-cigs,e cigs,  "
+            }
+        },
+        {
+            "item": {
+                "Item name": "Electric Razors",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "electronics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Electronic Cigarettes and Vaping Devices",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>The FAA prohibits these devices in checked bags. Battery-powered E-cigarettes, vaporizers, vape pens, atomizers, and electronic nicotine delivery systems may only be carried in the aircraft cabin (in carry-on baggage or on your person). Check with your airline for additional restrictions. Remove all electronic cigarette and vaping devices from carry-on bags if checked at the gate or planeside.<\/p>\n",
+                "Keywords": "vapes,e-cigs,e cigs,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Electronic Toothbrush",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "household,tools"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Empty Water Bottle",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "food"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Engine-powered Equipment Completely Purged of Fuel",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>No amount of fuel may remain in the engine, including residual vapors.<\/p><p>Even if completely purged, some airlines may refuse to allow engine powered equipment in carry-on if it has ever contained fuel.<\/p>",
+                "Keywords": "chainsaws,trimmers,generators"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Engine-powered Equipment with Residual Fuel",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>Engine-powered equipment with residual fuel (e.g., chainsaws, generators, trimmers, etc.) is not allowed in carry-on or checked bags. No amount of fuel may remain in the engine, including residual vapors.<\/p><p>Even if completely purged, some airlines may refuse to allow engine powered equipment in bags if it has ever contained fuel.<\/p>",
+                "Keywords": "chainsaws,generators,trimmers,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "EpiPens",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>TSA allows larger amounts of medically necessary liquids, gels, and aerosols in reasonable quantities for your trip, but you must declare them to TSA officers at the checkpoint for inspection.<\/p>",
+                "Keywords": "epi,pens"
+            }
+        },
+        {
+            "item": {
+                "Item name": "External Medical Devices",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Inform the TSA officer if you have a bone growth stimulator, spinal stimulator, neurostimulator, port, feeding tube, insulin pump, ostomy or other medical device attached to your body and where it is located before the screening process begins. You may provide the officer with the <a href=\"http:\/\/www.tsa.gov\/sites\/default\/files\/disability_notification_card_508.pdf\">TSA notification card<\/a> or other medical documentation to describe your condition.<\/p><p>Submit the device for X-ray screening if you can safely disconnect. Consult with the manufacturer of the device to determine whether it can pass through the X-ray, metal detector or advanced imaging technology for screening.<\/p><p>If you cannot disconnect from the device,\u00a0it\u00a0may require additional screening and those in sensitive areas are subject to careful and gentle inspection.<\/p>",
+                "Keywords": "electronics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Eye Drops",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "liquids"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Eye Liners (liquid)",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "eyeliner,make ups,makeups,make-ups,cosmetics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Fidget Spinners",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "toys"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Film",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>We recommend that you put undeveloped film and cameras containing undeveloped film in your carry-on bags or take undeveloped film with you to the checkpoint and ask for a hand inspection.<\/p>",
+                "Keywords": "cameras,equipment"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Fire Extinguishers and Other Compressed Gas Cylinders",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Firearms",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>Firearms carried in checked bags must be unloaded, packed in a locked hard-sided container, and declared to the airline at check-in. Check with your airline to see if they allow firearms in checked bags. <a href=\"\/transporting-firearms-and-ammunition\">Read the guidelines<\/a> for traveling with firearms.<\/p>\n<p>When traveling, be sure to comply with the laws concerning possession of firearms as they vary by local, state and international government.<\/p>\n",
+                "Keywords": "gun,handgun, gun stock, gun barrel"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Fireworks",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Fishing pole",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Fishing rods are permitted in carry-on and checked bags; however, passengers should check with the airline to confirm that the fishing rod fits within size limitations for carry-on items.<\/p><p>Sharp fishing tackle that may be considered dangerous, such as large fish hooks, should be sheathed, securely wrapped, and packed in your checked bags. Like other high-value objects, you may wish to pack expensive reels or fragile tackle that does not pose a security threat (small flies) in your carry-on bags.<\/p>",
+                "Keywords": "fishing rod,fish"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Flammable Liquid, Gel, or Aerosol Paint",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": "liquids,gasoline,fuels "
+            }
+        },
+        {
+            "item": {
+                "Item name": "Flammable Paints",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Flare Guns",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>Flare guns in checked bags must be unloaded, packed in a locked hard-sided container, within hazardous material regulations, and declared to the airline at check-in. Check with your airline to see if they allow firearms in checked bags. <a href=\"\/travel\/transporting-firearms-and-ammunition\">Read the guidelines <\/a>for traveling with firearms.<\/p><p>When traveling, be sure to comply with the laws concerning possession of firearms as they vary by local, state and international government.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Flares",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Flashlights",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Flashlights longer than 7 inches (measured from end to end when assembled) are prohibited in carry-on bags; these items must be packed in your checked bags.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Flowers",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Fresh flowers are allowed through the checkpoint without water.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Foam Toy Sword",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "replicas,toys,swords"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Fork",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "sharp"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Foundation",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "liquids,makeups,make ups,make-ups,cosmetics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Fresh Eggs",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Fresh Meat, Seafood and Vegetable",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Meat, seafood, vegetable and other non-liquid food items are permitted in both carry-on and checked bags. If the food is packed with ice or ice packs in a cooler or other container, the ice or ice packs must be completely frozen when brought through screening. If the ice or ice packs are partially melted and have any liquid at the bottom of the container, they will not be permitted. You also can pack frozen perishables in your carry-on or checked bags in dry ice. The FAA limits you to five pounds of dry ice that is properly packaged (the package is vented) and marked.<\/p>",
+                "Keywords": "chicken,beef,pork,shrimp,fish,crawfish,lemon"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Fresh Whole Fruits ",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Solid food items (not liquids or gels) can be transported in either your carry-on or checked bags. Liquid or gel food items larger than 3.4 oz are not allowed in carry-on bags and should be placed in your checked bags if possible.<\/p>",
+                "Keywords": "bananas,apples,oranges,grapefruits"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Frozen Food",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Meat, seafood, vegetables and other non-liquid food items are permitted in both carry-on and checked bags. If the food is packed with ice or ice packs in a cooler or other container, the ice or ice packs must be completely frozen when brought through screening. If the ice or ice packs are partially melted and have any liquid at the bottom of the container, they will not be permitted.<\/p>",
+                "Keywords": "non-liquid,ice,chicken,beef,shrimp,pork,bacons"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Fuels",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>Any flammable liquid fuel, such as cooking fuel,\u00a0is prohibited.\u00a0<\/p>",
+                "Keywords": "flammable,liquids,cooking"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Full Sized Video Game Consoles",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Please place the console in a separate bin for X-ray screening.<\/p>",
+                "Keywords": "xboxs,playstations,PS,wii,electronics,game controllers  "
+            }
+        },
+        {
+            "item": {
+                "Item name": "Gas Torches",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Gasoline",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Gel Ice Packs",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Frozen liquid items are allowed through the checkpoint as long as they are frozen solid when presented for screening. If frozen liquid items are partially melted, slushy, or have any liquid at the bottom of the container, they must meet 3-1-1 liquids requirements.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Gel-Type Candles",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "household,tools"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Glass",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Glass Picture Frame",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "glasses"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Glass Vase (empty)",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "Glass Vases"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Golf Balls",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Golf Clubs",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Golf Tees",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "golf,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Gravy",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Guitar",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>Please check with your airline for their policy. Musical instruments must undergo screening when transported as carry-on or in checked bags. Musical instruments transported as carry-on require a physical inspection at the security checkpoint. Inform the TSA officer if your instrument requires special care and handling. Pack brass instruments in your checked bags.<\/p>",
+                "Keywords": "music,instruments,musical instruments,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Gum",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "gum,candy,food"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Gun Lighters",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Gun Powder",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>Including black powder and percussion caps.<\/p>",
+                "Keywords": "flammables"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Hair Dryer",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "blowdryer,blow,hairdryer,electronics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Hair Straightener (Flat Iron)",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "electronics,electric"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Hair Texturizer",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "liquids,makeups,make ups,make-ups,cosmetics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Hairspray",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "liquids,makeups,make ups,make-ups,cosmetics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Hammers",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Hand Grenades",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Hand Sanitizers",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "medical,liquids"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Hand Warmers",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Handcuffs",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Harry Potter wand",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "toy,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Headphones",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Heating Pad (Gel)",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Heating Pads (Electric)",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Helmets",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Hiking Poles",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "sharp"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Hockey Sticks",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Hoverboards",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Checked Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Description": "<p>Hoverboards are allowed through the checkpoint. Please check with your airline for their policy.<\/p>",
+                "Keywords": "solowheels, airwheels, Airwheels, airboards, balance boards, balance wheels"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Hummus",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Ice",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Frozen liquid items are allowed through the checkpoint as long as they are frozen solid when presented for screening. If frozen liquid items are partially melted, slushy, or have any liquid at the bottom of the container, they must meet 3-1-1 liquids requirements.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Ice Axes\/Ice Picks",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": "camping"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Ice cream",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Frozen liquid items are allowed through the checkpoint as long as they are frozen solid when presented for screening. If frozen liquid items are partially melted, slushy, or have any liquid at the bottom of the container, they must meet 3-1-1 liquids requirements.<\/p>",
+                "Keywords": "icecreams,ice cream cakes"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Inhalers",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>TSA allows larger amounts of medically necessary liquids, gels, and aerosols in reasonable quantities for your trip, but you must declare them to TSA officers at the checkpoint for inspection.<\/p><p>We recommend, but do not require, that your medications be labeled to facilitate the security process.<\/p>",
+                "Keywords": "asthma,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Insulin",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Please notify the TSA officer that you have diabetes and are carrying your supplies with you. Insulin pumps and supplies must be accompanied by insulin, and insulin in any form or dispenser must be clearly identified.<\/p>",
+                "Keywords": "liquids,diabetes,diabetics,medications,medicines,prescriptions,needles"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Insulin Pumps",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Please notify the\u00a0TSA\u00a0officer that you have diabetes and are carrying your supplies with you. Insulin pumps and supplies must be accompanied by insulin, and insulin in any form or dispenser must be clearly identified.<\/p>",
+                "Keywords": "diabetes,diabetics,needles,medications,medical devices,medicines,prescriptions"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Insulin Supplies",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Please notify the\u00a0TSA officer that you have diabetes and are carrying your supplies with you. Insulin pumps and supplies must be accompanied by insulin, and insulin in any form or dispenser must be clearly identified.<\/p>",
+                "Keywords": "diabetes,diabetics,medications,medicines,prescriptions"
+            }
+        },
+        {
+            "item": {
+                "Item name": "iPod",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "music,electronic,ipad"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Jam and Jelly",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Juice for Babies",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Formula, breast milk and juice for babies are allowed in reasonable quantities\u00a0in carry-on bags. Remove these items from your carry-on bag to be screened separately from the rest of your belongings. Please see <a href=\"\/travel\/special-procedures\/traveling-children\">traveling with children<\/a> for more information.<\/p>",
+                "Keywords": "baby,liquids,milk,infants,babies"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Juices",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Knitting Needles",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Knives",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Except for plastic or round bladed butter knives.<\/p><p>Any sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": "knife,swiss army knife,pocket knife,pocketknife"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Kubatons",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Lacrosse Sticks",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Laptops",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Please remove the laptops from your bag and place it in a separate bin for X-ray screening.<\/p><p>TSA Pre\u2713\u00ae travelers do not need to remove shoes, laptops, 3-1-1 liquids, belts or light jackets. Please see <a href=\"https:\/\/www.tsa.gov\/precheck\">TSA Pre\u2713\u00ae<\/a> for more information.<\/p>",
+                "Keywords": "notebooks,netbooks,computers,electronics,chromebook,macbook"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Leatherman Tools",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>In general, you are prohibited from traveling with sharp objects in your carry-on bags; please pack these items in your checked bags. Scissors with blades smaller than 4 inches, small needles carried for special medical needs, and other sharp objects that do not contain a blade may be placed in carry-on bags.<\/p><p>Any sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "License plate",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "vehicle license plate,car,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Life Vest",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>You may bring a life vest with up to two CO2 cartridges inside, plus two spare cartridges in your carry-on or checked bag.<\/p>",
+                "Keywords": "CO2,life jacket"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Light Bulbs",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Light Saber",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Sadly, the technology doesn't currently exist to create a real lightsaber. However, you can pack a toy lightsaber in your carry-on or checked bag. May the force be with you.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Lighter Fluid",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Lipsticks",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "lip,sticks,lipgloss,lip gloss,makeups,make ups,make-ups,cosmetics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Liquid Bleach",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": "Chlorox,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Liquid Vitamins",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "liquids,vitamins"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Lithium batteries with 100 watt hours or less in a device ",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>Lithium batteries with 100 watt hours or less may be carried in a device in either carry-on or checked bags. Loose lithium batteries are prohibited in checked bags. For more information, see the <a href=\"https:\/\/www.faa.gov\/about\/office_org\/headquarters_offices\/ash\/ash_programs\/hazmat\/passenger_info\/media\/Airline_passengers_and_batteries.pdf\">FAA regulations on batteries<\/a>.<\/p>",
+                "Keywords": "household,battery"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Lithium batteries with more than 100 watt hours",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>Lithium batteries with more than 100 watt hours may be allowed in carry-on bags with airline approval, but are limited to two spare batteries per passenger. Loose lithium batteries are prohibited in checked bags. For more information, see the <a href=\"http:\/\/www.faa.gov\/about\/office_org\/headquarters_offices\/ash\/ash_programs\/hazmat\/passenger_info\/media\/Airline_passengers_and_batteries.pdf\">FAA regulations on batteries<\/a>.<\/p>",
+                "Keywords": "household,tool,battery"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Live Fish",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>Live fish must be transported in a clear, plastic, spill proof container.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Live Lobster",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>A live lobster is allowed through security and must be transported in a clear, plastic, spill proof container.\u00a0A TSA\u00a0officer will visually inspect your lobster at the checkpoint. We recommend that you contact your airline to determine your airline's policy on traveling with your lobster before arriving at the airport.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Longboards",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Lotion",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "suntan lotions,sun tan lotions,lotions,face creams,facecreams,sunblocks,cosmetics,sunscreens,hand creams,handcreams"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Magnets",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Makeup Remover",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "liquids,makeups,make ups,make-ups,cosmetics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Maple Syrup",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Martial Arts Weapons",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Mascara",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "gel,liquids,makeups,make ups,make-ups,cosmetics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Meat Cleavers",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": "household"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Medical Marijuana",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>TSA security officers do not search for marijuana or other drugs. In the event a substance that appears to be marijuana is observed during security screening, TSA will refer the matter to a law enforcement officer.<\/p><p>Whether or not marijuana is considered legal under local law is not relevant to TSA screening because TSA is governed by federal law. Federal law provides no basis to treat medical marijuana any differently than non-medical marijuana.<\/p>",
+                "Keywords": "drugs,medications"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Medications (Liquid)",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>TSA allows larger amounts of medically necessary liquids, gels, and aerosols in reasonable quantities for your trip, but you must declare them to TSA officers at the checkpoint for inspection.<\/p>",
+                "Keywords": "liquids,allergy medicines,prescriptions\r\n"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Medications (Pills)",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "allergy medicines,medications,ibuprofen,advil,tylenol,prescriptions\r\n"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Metal Detector",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Description": "<p>Because of the size limitations of overhead bins and space under seats, this item should be transported in checked bags.<\/p><p>Due to airline polices on weight and size of checked bags, you should check with your airline for any potential guidelines for certain checked items.<br \/>\u00a0<\/p>",
+                "Keywords": "Metal wand"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Microwave",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "electronics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Mirrors",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "makeup mirrors"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Mixer",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Mixer is allowed in carry-on bags. Please check with your airline for any size or weight restrictions.<\/p>",
+                "Keywords": "electronics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Multi-tool without Blades",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Nail Clippers",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": "fingernail clippers, nail scissors"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Nail Polish",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "liquids,makeups,make ups,make-ups,cosmetics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Nail Polish Remover",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "liquids,makeups,make ups,make-ups,cosmetics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Navigation GPS",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "small electronics,electronic,household,tools,Tom Tom,Garmin,GRMN,electric"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Nebulizers, CPAPs, BiPAPs, and APAPs",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Nebulizers, CPAPs, BiPAPs and APAPs are allowed in carry-on bags but must be removed from the carrying case and undergo X-ray screening. Facemasks and tubing may remain in the case.<\/p><p>You may provide a clear plastic bag to place the device in for X-ray screening. A TSA officer may need to remove the device from the bag to test it for traces of explosives.<\/p><p>Liquids associated with nebulizers are exempt from the 3-1-1 liquids rule. Read about <a href=\"\/travel\/special-procedures\">medication screening<\/a>.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Nerf\u00ae guns",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>There are some items that are not prohibited, but because of how they appear on the X-ray, security concerns, or impact of the 3-1-1 rules for liquids, gels and aerosols, they could require additional screening that might result in the item not being allowed through the checkpoint. We suggest that you pack this item in your checked bag, ship it to your destination or leave it at home.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Night Sticks",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Non-Spillable Wet Batteries",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>No more than two spare non-spillable wet batteries are allowed as long as each battery does not exceed 12 volts and 100 watt hours.<\/p>",
+                "Keywords": "battery"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Nunchucks",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Nuts",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Oils and Vinegars",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Paintings",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Parachutes",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>You may transport parachutes, either with or without Automatic Activation Devices, in carry-on or checked bags.<\/p><p>Parachutes should always be packed separately from other baggage. If a\u00a0TSA officer\u00a0determines that a bag must be opened to inspect the parachute, you must be present to assist in the inspection. If you are not within the screening area, you will be paged using the airport intercom system; if you are not present to assist with screening the parachute, the parachute will not be allowed on the plane. For this reason, passengers with parachutes are encouraged to add 30 minutes to the airlines' recommended arrival window. TSA is not responsible for repacking parachutes. All parachutes should be thoroughly inspected at their end destination to make sure that the equipment is still safe to use.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Parts of Guns and Firearms",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Firearm parts, including magazines, clips, bolts and firing pins, are prohibited in carry-on, but may be transported in checked bags. Check with your airline to see if they allow firearms in checked bags. <a href=\"\/travel\/transporting-firearms-and-ammunition\">Read the guidelines<\/a> for traveling with firearms.<\/p><p>When traveling, be sure to comply with the laws concerning possession of firearms as they vary by local, state and international government.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Peanut Butter",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "snacks,foods"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Pellet Guns",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>Check with your airline to see if they allow firearms in checked bags. <a href=\"\/travel\/transporting-firearms-and-ammunition\">Read the guidelines<\/a> for traveling with firearms.<\/p><p>When traveling, be sure to comply with the laws concerning possession of firearms as they vary by local, state and international government.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Pencil Sharpeners",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Pepper Spray",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Description": "<p>In your checked bags, you are allowed to have one 118 milliliter or 4 fluid ounce container of mace or pepper spray with a maximum concentration of 2% active ingredient provided that the container is equipped with a safety mechanism to prevent accidental discharge.<\/p><p>We recommend checking with your airline as some may not allow this item in checked bags.<\/p>",
+                "Keywords": "mace spray,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Perfume",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "liquids,makeups,make ups,make-ups,cosmetics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Phone Chargers",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>For more information, see the <a href=\"https:\/\/www.faa.gov\/about\/office_org\/headquarters_offices\/ash\/ash_programs\/hazmat\/passenger_info\/media\/Airline_passengers_and_batteries.pdf\">FAA regulations on batteries<\/a>.<\/p>",
+                "Keywords": "battery,batteries,cell phone chargers"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Pies and Cakes",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "key lime"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Pill Cutter",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "pills,medications,medicine,prescriptions,medical"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Pizza",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Planting seeds",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Plants",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<div><p>Check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p><\/div>",
+                "Keywords": "live plants,household"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Pool Cues",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Powder Makeup",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "solid,makeups,make ups,make-ups,cosmetics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Printer",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Please remove the printer from your bag and place it in a separate bin for X-ray screening<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Printer Ink",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Prosthetics",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Protein Powder",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Putty Balls",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Radio",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>You may transport this item in carry-on or checked bags. For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Razor-Type Blades",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Box cutters, razor blades not in a cartridge\u00a0are prohibited in carry-on.<\/p><p>Any sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": "razors"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Realistic Replicas of Explosives",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": "toys"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Realistic Replicas of Firearms",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "toys"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Realistic Replicas of Incendiaries",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Recreational Oxygen",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>Non-medically required, flavored or canned oxygen containers are prohibited.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Remote Controlled Cars",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Please carefully pack your electronics items, making sure all cords are wrapped and any DVDs, CDs, or cassettes are removed from their devices. While you can pack expensive, fragile electronics items in checked or carry-on bags, we recommend packing them in your carry-on.<\/p>",
+                "Keywords": "toys"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Rifle Scope (Scope Only)",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Firearms carried as checked baggage MUST be unloaded, packed in a locked hard-sided container, and declared to the airline at check-in. <a href=\"\/transporting-firearms-and-ammunition\">Read the guidelines<\/a>.<\/p><p>Check with your airline or travel agent to see if firearms are permitted in checked baggage on the airline you are flying. Ask about limitations or fees, if any, that apply.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Rifles",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>Firearms carried in checked bags must be unloaded, packed in a locked hard-sided container, and declared to the airline at check-in. Check with your airline to see if they allow firearms in checked bags. <a href=\"\/transporting-firearms-and-ammunition\">Read the guidelines<\/a>\u00a0for traveling with firearms.<\/p><p>When traveling, be sure to comply with the laws concerning possession of firearms as they vary by local, state and international government.<\/p>",
+                "Keywords": "fierarms,guns"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Rocks",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Sabers",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked baggage should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Safety Matches",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>One book of safety (non-strike anywhere) matches are permitted as carry-on items, but all matches are prohibited in checked baggage.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Safety pin",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "lapel pin"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Safety Razor With Blades (allowed without blade)",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked baggage should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": "safety razors"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Salad Dressing",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Salsa and Sauces",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Salt",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "Solid food"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Samsung Galaxy Note 7",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>The U.S. Department of Transportation, with the Federal Aviation Administration and the Pipeline and Hazardous Materials Safety Administration, have issued an emergency order to ban all Samsung Galaxy Note7 smartphone devices from air transportation in the United States. Individuals who own or possess a Samsung Galaxy Note7 device may not transport the device on their person, in carry-on baggage, or in checked baggage on flights to, from, or within the United States. For more information, <a href=\"https:\/\/www.transportation.gov\/briefing-room\/dot-bans-all-samsung-galaxy-note7-phones-airplanes\">read the announcement<\/a>. \u00a0<\/p>",
+                "Keywords": "electronics,phones"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Sand",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "beach"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Sandwiches",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "hamburgers"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Saws",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Including cordless portable power saws.<\/p><p>Any sharp objects in checked baggage should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": "tools"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Scissors",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>If packed in carry-on, they must be less than 4 inches from the pivot point.<\/p><p>Any sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": "sewing scissors"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Screwdriver (longer than 7 inches)",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Tools longer than 7 inches (measured from end to end when assembled) are prohibited in carry-on baggage; these items must be packed in your checked baggage.<\/p>",
+                "Keywords": "screw drivers,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Screwdrivers (shorter than 7 inches)",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "screw drivers,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Screwdrivers\/Wrenches\/Pliers",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Less\u00a0than seven inches in length.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Segways",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Checked Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Description": "<p>Segways are allowed through the checkpoint. Please check with your airline for their policy.<\/p>",
+                "Keywords": "solowheels, airwheels, Airwheels, airboards, balance boards, balance wheels"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Self-Defense Sprays",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>One 4 fl. oz. (118 ml) container of mace or pepper spray is permitted in checked baggage provided it is equipped with a safety mechanism to prevent accidental discharge. Self-defense sprays containing more than 2 percent by mass of tear gas (CS or CN) are prohibited in checked baggage. For more information, visit <a href=\"http:\/\/www.faa.gov\/\">faa.gov <\/a><\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Selfie Stick",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "camera"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Sewing Machine",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Sewing Needles",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>In general, you may place your knitting needles and needlepoint tools in carry-on or checked baggage.<\/p><p>Circular thread cutters or any other cutter or needlepoint tools that contain blades must be placed in checked baggage. You are permitted to keep scissors smaller than 4 inches in your carry-on baggage.<br \/>\u00a0<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Shampoo",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "hair,conditioner"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Shaving Cream",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "shaving creams"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Shell Casings",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Empty shell casings are allowed in carry-on bag as long as the projectile is no longer intact. They are allowed only if the primer has been removed or has been discharged.\u00a0If the projectile is attached &amp; the powder has been drilled out, it is considered a replica and not allowed in carry-on.<\/p>",
+                "Keywords": "ammunition,guns,firearms"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Shoe\/Snow Spikes",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Sports equipment that can be used as a bludgeon (such as bats and clubs) is prohibited in the cabin of the plane and must be transported in your checked baggage.<\/p>",
+                "Keywords": "cleats, metal,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Skateboards",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Skateboards are allowed in carry-on bags. Please check with your airline for any size or weight restrictions.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Skates ",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Including ice skates and rollerblades.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Ski Poles",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "sharp objects"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Skillet ",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>There are some items that are not on the Prohibited Items list, but because of how they appear on the X-ray, security concerns, or impact of the 3-1-1 rules for liquids, gels and aerosols, they could require additional screening that might result in the item not being allowed through the checkpoint. We suggest that you pack this item in your checked bag, ship it to your destination or leave it at home.<\/p>",
+                "Keywords": "skillets,pots,pans, "
+            }
+        },
+        {
+            "item": {
+                "Item name": "Small Compressed Gas Cartridges",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>Except for personal medical oxygen cylinders, you can only carry an EMPTY compressed gas cylinder onboard a plane. To be permitted (in either carry-on or checked baggage), it must be clearly visible to the TSA officer that the cylinder is empty. Personal oxygen is permitted if the regulatory valve has not been tampered with or removed.<\/p><p>Unless being used for personal medical oxygen, the gas cylinder regulator valve must be completely disconnected from the cylinder (in other words, the cylinder has an open end that allows the TSO to visually inspect the cylinder). TSOs will NOT remove the seal or regulator valve from the cylinder. If the gas cylinder is sealed (the regulator valve is still attached) and not required for personal medical oxygen, the gas cylinder is prohibited, regardless of the reading on the pressure gauge indicator.<\/p>",
+                "Keywords": "flammables,avalanche vest,Airbag Backpack"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Small Fishing Lures",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Sharp fishing tackle that may be considered dangerous, such as large fish hooks, should be sheathed, securely wrapped, and packed in your checked luggage. Like other high-value objects, you may wish to pack expensive reels or fragile tackle that does not pose a security threat (small flies) in your carry-on baggage.<\/p>",
+                "Keywords": "fishing hooks,sharp objects"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Small Pets ",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Checked Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Description": "<p>Small pets are allowed through the checkpoint. Please check with your airline for their policy.<\/p><p>Please remove your pet from the carrying case and place the case through the X-ray machine. You should maintain control of your pet with a leash and remember to remove the leash when carrying your pet through the metal detector. Animal carriers will undergo a visual and\/or physical inspection.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Small Toy Cars",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Snacks",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Solid food items (not liquids or gels) can be transported in either your carry-on or checked baggage.<\/p>",
+                "Keywords": "cookies,crackers,goldfish,beef jerky,chips,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Snow Cleats",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Sports equipment that can be used as a bludgeon (such as bats and clubs) is prohibited in the cabin of the plane and must be transported in your checked baggage.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Snow Globes",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Snow globes that appear to contain less than 3.4 ounces of liquid (approximately tennis ball size) can be packed in your carry-on bag ONLY if the entire snow globe, including the base, is able to fit into your one quart-sized, resealable plastic bag. Each passenger can only bring one quart-sized bag with 3.4 oz or smaller containers. Larger snow globes must be packed in checked baggage.<\/p>",
+                "Keywords": "snowglobes,liquids"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Snowshoes",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Soap (Bar)",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "household,face soap,hand soap,dish soap"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Soap (Liquid)",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "household,face soap,hand soap,dish soap"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Solid Candles",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Solid Foods",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Solid food items (not liquids or gels) can be transported in either your carry-on or checked baggage.<\/p>",
+                "Keywords": "breads,tacos,waffle"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Solid Makeup",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "makeups,make-ups,cosmetics,powders,eyeliners,eye liners,lipsticks,lip sticks"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Soups",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Speakers",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": "electronics,bluetooth"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Spear Guns",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Spillable Batteries",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>Except those in wheelchairs.<\/p>",
+                "Keywords": "flammables,battery"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Sports Cleats",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Sports equipment that can be used as a bludgeon (such as bats and clubs) is prohibited in the cabin of the plane and must be transported in your checked baggage.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Spray Paint",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Squirt Guns\/Water Guns",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Water guns, toy guns, toy swords and other items that resemble real firearms or other weapons can look just like the real thing in an X-ray. Please pack them in your checked bag. Replicas of explosives, such as hand grenades, are not permitted in checked or carry-on bags.<\/p>",
+                "Keywords": "toys"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Staplers",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Starter Pistols ",
+                "Item category": "Firearms",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>Starter pistols carried in checked bags must be unloaded, packed in a locked hard-sided container, and declared to the airline at check-in. Check with your airline to see if they allow firearms in checked bags. <a href=\"\/travel\/transporting-firearms-and-ammunition\">Read the guidelines<\/a> for traveling with firearms.<\/p><p>When traveling, be sure to comply with the laws concerning possession of firearms as they vary by local, state and international government.<\/p>",
+                "Keywords": "camping"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Steel Toe Boots",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>To help officers get a clear look at your bag and reduce the need for additional screening, we suggest you pack your bag in neat layers.<\/p><div><p>TSA Pre\u2713\u00ae\u00a0travelers do not need to remove shoes, laptops, 3-1-1 liquids, belts or light jackets. Please see\u00a0<a href=\"https:\/\/www.tsa.gov\/precheck\">TSA Pre\u2713\u00ae<\/a>\u00a0for more information.\u00a0<\/p><\/div>",
+                "Keywords": "shoes"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Stick Pins",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "Decorative pins"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Strike-anywhere Matches",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Stuffed Animals",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Stun Guns\/Shocking Devices",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Sunscreen Sprays",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "suntan,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Supplements",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "food, vitamins, "
+            }
+        },
+        {
+            "item": {
+                "Item name": "Support Braces (Knee, Ankle, Wrist, Back)",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "Back Braces"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Swords",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Cutting or thrusting weapons, including fencing foils.<\/p><p>Any sharp objects in checked baggage should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Tablets ",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "iPads,Galaxy Tabs,amazon fire,electronics,Kindles,e-readers,e readers,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Tattoo Guns",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Tattoo Inks",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Tea Kettle",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Tear Gas",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>Self-defense sprays containing more than 2% by mass of Tear Gas are prohibited in both carry-on and checked baggage.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Tennis Rackets",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "TENS unit",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>TENS (Transcutaneous electrical nerve stiumation) units are permitted in both carry-on and checked bags. If your doctor has told you that your specific TENS unit shouldn't go through an X-ray, you should notify the Transportation Security Officer (TSO) so they can conduct alternate screening. To help you get through security more efficiently, it's a good idea to pull your TENS unit out of our carry-on bag and put it in the screening bin so the TSA officer can get a clear view and clear it.<\/p>",
+                "Keywords": "nerve,stimulation,electronics,TENS device,QUELL unit,10s"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Tent",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Checked Bags": "<span id=\"prohibited_special1\">Check with Airline<\/span>",
+                "Description": "<p>Any sharp objects in checked baggage should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": "poles,peg,camping"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Tent Spikes",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked baggage should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Thermometer",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "thermometers, "
+            }
+        },
+        {
+            "item": {
+                "Item name": "Throwing Stars",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked baggage should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Tobacco",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Tools",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Greater than seven inches in length.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Toothbrush",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "toothbrushes"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Toothpaste",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "household,toothpastes"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Torch Lighters",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": "<p>Torch lighters create a thin, needle-like flame that is hotter (reaching 2,500 F) and more intense than those from common lighters. Torch lighters are often used for pipes and cigars, and maintain a consistent stream of air-propelled fire regardless of the angle at which it is held.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Tortilla Press",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Toy Robots",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Tripods",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "camera equipment,camera,camera tripods"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Trophy",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "trophies"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Turpentine and Paint Thinner",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": "flammables"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Tweezers",
+                "Item category": "Sharp Objects",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Any sharp objects in checked baggage should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Umbrellas",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Umbrella is allowed in carry-on bags. Please check with your airline for any size or weight restrictions.<\/p>",
+                "Keywords": "household,miscellaneous"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Unused Syringes",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Unused syringes are allowed when accompanied\u00a0by injectable medication. You must declare these items\u00a0to security officers at the checkpoint for inspection. We recommend, but do not require, that your medications be labeled to facilitate the security process.<\/p>",
+                "Keywords": "insulin,diabetics,diabetes,needles,medications,medicines,prescriptions"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Used Syringes",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Used syringes are allowed when transported in Sharps disposal container or other similar hard-surface container.<br \/>\u00a0<\/p>",
+                "Keywords": "insulin,diabetics,diabetes,needles,medications,medicines,prescriptions"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Utensils",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Knives, except for plastic or round-bladed butter knives, are not allowed in carry-on bags.<\/p>",
+                "Keywords": "Forks,Spoons,Silverwares,Silver wares,Plasticwares,Plastic wares,Flatwares,Flat wares,Cutlery,Butter Knife,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Vehicle Airbags",
+                "Item category": "Flammables",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Violins",
+                "Item category": "Miscellaneous",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>Musical instruments must undergo screening when transported as carry-on or in checked baggage. Musical instruments transported as carry-on require a physical inspection at the security checkpoint. Inform the TSA officer if your instrument requires special care and handling. Pack brass instruments in your checked baggage.<\/p><p>Check with your airline prior to your flight to ensure your instrument meets the aircraft size requirements.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Vitamins",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Waffle Iron",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>You may transport this item in carry-on or checked baggage. For items you wish to carry on, you should check with the airline to ensure that the item will fit in the overhead bin or underneath the seat of the airplane.<\/p>",
+                "Keywords": "waffle maker,"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Walkers",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Walking Sticks",
+                "Item category": "Sporting and Camping",
+                "Carry on Bags": "<span id=\"prohibited_no\">No<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Water for Babies",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": "<p>Water for babies is\u00a0allowed in reasonable quantities in carry-on bags. Remove this item from your carry-on bag to be screened separately from the rest of your belongings. Please see <a href=\"\/travel\/special-procedures\/traveling-children\">traveling with children<\/a> for more information.<\/p>",
+                "Keywords": "baby,liquids,infants,babies"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Wedding Dress",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes_condition2\">Yes (Special Instructions)<\/span>",
+                "Description": "<p>You can bring a wedding dress through the security checkpoint for screening, but we strongly recommend that it is packed safely in a garment-style bag or other packaging to protect it during the screening process. We also recommend that you contact your airline to determine their policy for bringing and stowing the dress on the airplane, as well as how it fits into their carry-on bag limitations.<\/p><p>If for some reason your dress cannot fit through the checkpoint x-ray machine for screening, alternate screening procedures will be taken to clear the dress and your garment bag will need to be opened.<\/p>",
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Wet Wipes",
+                "Item category": "Household and Tools",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": "baby wipes,makeups,make ups,make-ups,cosmetics"
+            }
+        },
+        {
+            "item": {
+                "Item name": "Wheelchairs",
+                "Item category": "Medical",
+                "Carry on Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        },
+        {
+            "item": {
+                "Item name": "Yogurt",
+                "Item category": "Food",
+                "Carry on Bags": "<span id=\"prohibited_yes_condition1\">Yes (Less than 3.4oz\/100 ml allowed)<\/span>",
+                "Checked Bags": "<span id=\"prohibited_yes\">Yes<\/span>",
+                "Description": null,
+                "Keywords": null
+            }
+        }
+    ]
+}
