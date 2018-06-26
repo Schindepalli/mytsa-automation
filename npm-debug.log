@@ -1,0 +1,20 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'run', 'prod' ]
+2 info using npm@2.15.11
+3 info using node@v0.12.18
+4 verbose node symlink /usr/local/bin/node
+5 verbose config Skipping project config: /Users/jaeshin/.npmrc. (matches userconfig)
+6 verbose stack Error: ENOENT, open '/Users/jaeshin/package.json'
+6 verbose stack     at Error (native)
+7 verbose cwd /Users/jaeshin/Test Automation/AutomationTest
+8 error Darwin 17.2.0
+9 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "run" "prod"
+10 error node v0.12.18
+11 error npm  v2.15.11
+12 error path /Users/jaeshin/package.json
+13 error code ENOENT
+14 error errno -2
+15 error enoent ENOENT, open '/Users/jaeshin/package.json'
+15 error enoent This is most likely not a problem with npm itself
+15 error enoent and is related to npm not being able to find a file.
+16 verbose exit [ -2, true ]

@@ -1,0 +1,73 @@
+group 'gov.dhs.tsa'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+apply plugin: 'net.serenity-bdd.aggregator'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    jcenter()
+    mavenLocal()
+}
+
+buildscript {
+    ext{
+        junit4Version        = '4.12'
+        junitVintageVersion  = '5.1.0'
+        junitPlatformVersion = '1.1.0'
+        junitJupiterVersion  = '5.1.0'
+        serenityVersion = '1.9.16'
+    }
+    repositories {
+        jcenter()
+        mavenLocal()
+    }
+    dependencies {
+        classpath("net.serenity-bdd:serenity-gradle-plugin:${serenityVersion}")
+    }
+}
+
+dependencies {
+    testCompile ("net.serenity-bdd:serenity-core:${serenityVersion}")
+    testCompile ("net.serenity-bdd:serenity-junit:${serenityVersion}")
+    compile ("net.serenity-bdd:serenity-rest-assured:${serenityVersion}")
+    testCompile group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.25'
+    testCompile group: 'org.assertj', name: 'assertj-core', version: '3.8.0'
+
+    // JUnit Jupiter API and TestEngine implementation
+    testCompile("org.junit.jupiter:junit-jupiter-api:${junitJupiterVersion}")
+    testRuntime("org.junit.jupiter:junit-jupiter-engine:${junitJupiterVersion}")
+
+    // If you also want to support JUnit 3 and JUnit 4 tests
+    testCompile("junit:junit:${junit4Version}")
+    testRuntime("org.junit.vintage:junit-vintage-engine:${junitVintageVersion}")
+
+    // Only needed to run tests in an (IntelliJ) IDE(A) that bundles an older version
+    testRuntime("org.junit.platform:junit-platform-launcher:${junitPlatformVersion}")
+
+    compile group: 'io.appium', name: 'java-client', version: '5.0.4'
+
+}
+// ENABLE FOR TERMINAL
+task copyPropsFile << {
+    if (project.hasProperty('tags')) {
+        println "JUnit tags set to: $tags"
+
+        ant.propertyfile(file: "$projectDir/serenity.properties") {
+            entry(key: "tags", value: "$tags")
+        }
+    }
+}
+
+// Hook into the gradle processTestResources task to execute the copyPropsFile custom task
+processTestResources{
+    doFirst{
+        copyPropsFile.execute()
+    }
+}
+
+gradle.startParameter.continueOnFailure = true

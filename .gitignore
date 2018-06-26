@@ -1,0 +1,7 @@
+#ignore target directory
+**/target
+
+**/.gradle
+**/.idea
+**/build
+**/out
